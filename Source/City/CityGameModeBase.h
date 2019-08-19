@@ -15,6 +15,6 @@ class CITY_API ACityGameModeBase : public AGameModeBase
 	GENERATED_BODY()
 	
 	
-	
-	
+public:
+	ACityGameModeBase();
 };
